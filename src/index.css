@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'DM sans';
+}
+
+::selection{
+    color: rgb(249, 134, 3);
+}
